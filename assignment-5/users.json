@@ -1,0 +1,21 @@
+{
+    "admin@gmail.com": {
+        "username": "robi.cnits",
+        "email": "admin@gmail.com",
+        "password": "1234567",
+        "role": "admin"
+    },
+    "manager@gmail.com": {
+        "username": "manager",
+        "email": "manager@gmail.com",
+        "password": "123456",
+        "role": "manager"
+    },
+    "user@gmail.com": {
+        "username": "user",
+        "email": "user@gmail.com",
+        "password": "12345678",
+        "role": "user"
+    }
+   
+}

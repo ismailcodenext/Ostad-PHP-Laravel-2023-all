@@ -14,8 +14,11 @@
 // $result = count($numbers);
 // echo $result;
 
+// $fruits = ['apple', 'banana', 'cherry'];
+
+// echo $fruits[1];
+
 $fruits = ['apple', 'banana', 'cherry'];
 
-echo $fruits[1];
-
-?>
+$result = array_add()
+    ?>
